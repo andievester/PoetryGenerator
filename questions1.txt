@@ -1,0 +1,12 @@
+How would you describe your mood today?
+
+1.) Inspired
+2.) Hopeless
+3.) Apathetic
+4.) Joyous
+5.) Rageful 
+6.) Content
+7.) Lonely
+8.) Empowered
+9.) Melancholy
+
