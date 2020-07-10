@@ -1,20 +1,15 @@
 package com.techelevator;
 
-import java.io.BufferedInputStream;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class QuizMaker {
-	private List<QuizQuestions> quizQuestions;
+
 
 	public QuizMaker() {
-		quizQuestions = new ArrayList<QuizQuestions>();
+	
 	}
 
 	public static void main(String[] args) throws IOException {
